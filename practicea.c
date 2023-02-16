@@ -9,6 +9,7 @@ int a[10];
 
 // printf("enter the arrays value of b =");
 // scanf("%d",&b);
+// learning git and github
 
 for (int i=0;i<5;i++)
 {    printf("Enter the value of arrays =");
